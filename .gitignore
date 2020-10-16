@@ -3,3 +3,9 @@
 /build/
 /build/classes/java/main/
 /build/classes/java/test/
+
+# Created by .ignore support plugin
+.gradle
+.idea
+
+application.yml
